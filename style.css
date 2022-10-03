@@ -1,0 +1,27 @@
+.btn{
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: NONE;
+    border: 1px solid transparent;
+    padding: .35rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15 ease-in-out;
+}
+.btn:hover{
+    cursor: absolute;
+}
+.centerHoriz{
+    position: absolute;
+    top: 10%;
+    left: 30%;
+} 
+.f20p{
+    font-size: 20px;
+}
